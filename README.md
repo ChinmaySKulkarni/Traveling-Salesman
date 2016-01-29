@@ -1,2 +1,2 @@
 # Traveling-Salesman
-C implementation of a the traveling salesman problem.
+C implementation of the traveling salesman problem.
